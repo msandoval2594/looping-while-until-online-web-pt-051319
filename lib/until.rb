@@ -4,7 +4,7 @@ def using_until
   counter = 6
 until levitation_force == 10
 levitation_force += 1
-puts "Wingardium Leviosa" #{levitation_force}    
+puts "Wingardium Leviosa" #{levitation_force} out of 10    
 counter += 1
 end
 end
