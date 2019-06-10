@@ -3,7 +3,7 @@ def using_until
   
   counter = 6
 until levitation_force == 10
-levitation_force
+levitation_force += 1
 puts "Wingardium Leviosa is less than 10"    counter += 1
 end
 end
